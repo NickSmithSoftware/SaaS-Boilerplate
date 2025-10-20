@@ -44,6 +44,9 @@ yarn-error.log*
 # local env files
 .env*.local
 
+# env
+.env
+
 # local folder
 local
 

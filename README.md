@@ -1,18 +1,18 @@
-# Free and Open Source SaaS Boilerplate with Tailwind CSS and Shadcn UI
+# Studio Flow - Creative Workflow Management Platform
 
 <p align="center">
-  <a href="https://react-saas.com"><img height="300" src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Next.js SaaS Template"></a>
+  <a href="https://studioflow.com"><img height="300" src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Studio Flow Application"></a>
 </p>
 
-🚀 **SaaS Boilerplate** is a powerful and fully customizable template to kickstart your SaaS applications. Built with **Next.js** and **Tailwind CSS**, and the modular UI components of **Shadcn UI**. This **Next.js SaaS Template** helps you to quickly build and launch SaaS with minimal effort.
+🚀 **Studio Flow** is a powerful creative workflow management platform designed to streamline project management, enhance team collaboration, and deliver exceptional creative results. Built with **Next.js** and **Tailwind CSS**, featuring the modular UI components of **Shadcn UI**. This platform helps creative teams organize projects, manage assets, track progress, and collaborate seamlessly.
 
-Packed with essential features like built-in **Authentication**, **Multi-Tenancy** with Team support, **Role & Permission**, Database, I18n (internationalization), Landing Page, User Dashboard, Form handling, SEO optimization, Logging, Error reporting with [Sentry](https://sentry.io/for/nextjs/?utm_source=github&utm_medium=paid-community&utm_campaign=general-fy25q1-nextjs&utm_content=github-banner-nextjsboilerplate-logo), Testing, Deployment, Monitoring, and **User Impersonation**, this SaaS template provides everything you need to get started.
+Packed with essential features like built-in **Authentication**, **Multi-Tenancy** with Team support, **Role & Permission**, Database, I18n (internationalization), Project Management, Team Dashboard, Form handling, SEO optimization, Logging, Error reporting with [Sentry](https://sentry.io/for/nextjs/?utm_source=github&utm_medium=paid-community&utm_campaign=general-fy25q1-nextjs&utm_content=github-banner-nextjsboilerplate-logo), Testing, Deployment, Monitoring, and **User Impersonation**, Studio Flow provides everything creative teams need to manage their projects efficiently.
 
-Designed with developers in mind, this **Next.js Starter Kit** uses TypeScript for type safety and integrates ESLint to maintain code quality, along with Prettier for consistent code formatting. The testing suite combines Vitest and React Testing Library for robust unit testing, while Playwright handles integration and E2E testing. Continuous integration and deployment are managed via GitHub Actions. For user management, authentication is handled by [Clerk](https://go.clerk.com/zGlzydF). For database operations, it uses Drizzle ORM for type-safe database management across popular databases like PostgreSQL, SQLite, and MySQL. One recommended option is to use [Prisma PostgreSQL](https://www.prisma.io/?via=saasboilerplatetop), which provides a free PostgreSQL database that is compatible and has been tested with SaaS Boilerplate.
+Designed with creative teams in mind, this platform uses TypeScript for type safety and integrates ESLint to maintain code quality, along with Prettier for consistent code formatting. The testing suite combines Vitest and React Testing Library for robust unit testing, while Playwright handles integration and E2E testing. Continuous integration and deployment are managed via GitHub Actions. For user management, authentication is handled by [Clerk](https://go.clerk.com/zGlzydF). For database operations, it uses Drizzle ORM for type-safe database management across popular databases like PostgreSQL, SQLite, and MySQL. One recommended option is to use [Prisma PostgreSQL](https://www.prisma.io/?via=saasboilerplatetop), which provides a free PostgreSQL database that is compatible and has been tested with Studio Flow.
 
-Whether you're building a new SaaS app or looking for a flexible, **production-ready SaaS template**, this boilerplate has you covered. This free, open-source starter kit has everything you need to accelerate your development and scale your product with ease.
+Whether you're managing creative projects, coordinating team workflows, or looking for a flexible, **production-ready project management platform**, Studio Flow has you covered. This comprehensive platform has everything creative teams need to accelerate their productivity and deliver exceptional results.
 
-Clone this project and use it to create your own SaaS. You can check the live demo at [SaaS Boilerplate](https://react-saas.com), which is a demo with a working authentication and multi-tenancy system.
+Explore the live demo at [Studio Flow](https://studioflow.com), which showcases a working authentication and multi-tenancy system designed for creative teams.
 
 ## Sponsors
 

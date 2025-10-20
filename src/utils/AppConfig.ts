@@ -6,7 +6,7 @@ const localePrefix: LocalePrefix = 'as-needed';
 
 // FIXME: Update this configuration file based on your project information
 export const AppConfig = {
-  name: 'SaaS Template',
+  name: 'Studio Flow',
   locales: [
     {
       id: 'en',
@@ -35,10 +35,10 @@ export const PricingPlanList: Record<string, PricingPlan> = {
     devPriceId: '',
     prodPriceId: '',
     features: {
-      teamMember: 2,
-      website: 2,
-      storage: 2,
-      transfer: 2,
+      teamMember: 3,
+      website: 1,
+      storage: 5,
+      transfer: 5,
     },
   },
   [PLAN_ID.PREMIUM]: {

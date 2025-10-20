@@ -1,7 +1,7 @@
 {
   "Index": {
-    "meta_title": "SaaS Template - The perfect SaaS template to build and scale your business with ease.",
-    "meta_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS."
+    "meta_title": "Studio Flow - The perfect workflow management platform to streamline your creative process.",
+    "meta_description": "Studio Flow helps creative teams manage projects, collaborate efficiently, and deliver exceptional results with our intuitive workflow management platform."
   },
   "Navbar": {
     "sign_in": "Sign In",
@@ -13,31 +13,31 @@
     "company": "Company"
   },
   "Hero": {
-    "follow_twitter": "Follow @Ixartz on Twitter",
-    "title": "The perfect <important>SaaS template</important> to build and scale your business with ease.",
-    "description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS.",
+    "follow_twitter": "Follow @StudioFlow on Twitter",
+    "title": "Streamline your creative workflow with <important>Studio Flow</important>",
+    "description": "Studio Flow helps creative teams manage projects, collaborate efficiently, and deliver exceptional results with our intuitive workflow management platform.",
     "primary_button": "Get Started",
-    "secondary_button": "Star on GitHub"
+    "secondary_button": "Watch Demo"
   },
   "Sponsors": {
     "title": "Sponsored by"
   },
   "Features": {
     "section_subtitle": "Features",
-    "section_title": "Unlock the Full Potential of the SaaS Template",
-    "section_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS.",
-    "feature1_title": "Node.js",
-    "feature2_title": "React",
-    "feature3_title": "Tailwind CSS",
-    "feature4_title": "TypeScript",
-    "feature5_title": "Shadcn UI",
-    "feature6_title": "ESLint",
-    "feature_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS."
+    "section_title": "Unlock the Full Potential of Studio Flow",
+    "section_description": "Studio Flow provides everything creative teams need to manage projects, collaborate effectively, and deliver exceptional results on time.",
+    "feature1_title": "Project Management",
+    "feature2_title": "Team Collaboration",
+    "feature3_title": "Asset Organization",
+    "feature4_title": "Timeline Tracking",
+    "feature5_title": "Client Feedback",
+    "feature6_title": "Workflow Automation",
+    "feature_description": "Studio Flow provides everything creative teams need to manage projects, collaborate effectively, and deliver exceptional results on time."
   },
   "Pricing": {
     "section_subtitle": "Features",
-    "section_title": "Unlock the Full Potential of the SaaS Template",
-    "section_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS.",
+    "section_title": "Choose the Perfect Plan for Your Studio",
+    "section_description": "Studio Flow offers flexible pricing plans to meet the needs of creative teams of all sizes.",
     "button_text": "Get Started"
   },
   "PricingPlan": {
@@ -94,16 +94,16 @@
     "settings": "Settings"
   },
   "Dashboard": {
-    "meta_title": "SaaS Template Dashboard",
-    "meta_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS."
+    "meta_title": "Studio Flow Dashboard",
+    "meta_description": "Manage your creative projects, collaborate with your team, and track progress all in one place with Studio Flow's comprehensive dashboard."
   },
   "DashboardIndex": {
     "title_bar": "Dashboard",
-    "title_bar_description": "Welcome to your dashboard",
-    "message_state_title": "Let's get started",
-    "message_state_description": "You can customize this page by editing the file at <code>dashboard/page.tsx</code>",
-    "message_state_button": "Star on GitHub",
-    "message_state_alternative": "Want more features using the same stack? Try <url></url>."
+    "title_bar_description": "Welcome to Studio Flow",
+    "message_state_title": "Welcome to Studio Flow",
+    "message_state_description": "Start managing your creative projects, collaborate with your team, and streamline your workflow.",
+    "message_state_button": "Create Your First Project",
+    "message_state_alternative": "Need help getting started? Check out our <url>Quick Start Guide</url>."
   },
   "UserProfile": {
     "title_bar": "User Profile",

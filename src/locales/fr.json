@@ -1,7 +1,7 @@
 {
   "Index": {
-    "meta_title": "SaaS Template - Le template SaaS parfait pour construire et mettre à l'échelle votre entreprise en toute simplicité.",
-    "meta_description": "Un template gratuit et open-source de landing page pour votre entreprise SaaS, construit avec React, TypeScript, Shadcn UI et Tailwind CSS."
+    "meta_title": "Studio Flow - La plateforme parfaite de gestion de flux de travail pour optimiser votre processus créatif.",
+    "meta_description": "Studio Flow aide les équipes créatives à gérer leurs projets, collaborer efficacement et livrer des résultats exceptionnels avec notre plateforme intuitive de gestion de flux de travail."
   },
   "Navbar": {
     "sign_in": "Se connecter",
@@ -13,11 +13,11 @@
     "company": "Entreprise"
   },
   "Hero": {
-    "follow_twitter": "Suivez @Ixartz sur Twitter",
-    "title": "Le parfait <important>SaaS template</important> pour construire et mettre à l'échelle votre entreprise en toute simplicité.",
-    "description": "Un template gratuit et open-source de landing page pour votre entreprise SaaS, construit avec React, TypeScript, Shadcn UI et Tailwind CSS.",
+    "follow_twitter": "Suivez @StudioFlow sur Twitter",
+    "title": "Optimisez votre flux de travail créatif avec <important>Studio Flow</important>",
+    "description": "Studio Flow aide les équipes créatives à gérer leurs projets, collaborer efficacement et livrer des résultats exceptionnels avec notre plateforme intuitive de gestion de flux de travail.",
     "primary_button": "Démarrer",
-    "secondary_button": "Mettez une étoile sur GitHub"
+    "secondary_button": "Voir la démonstration"
   },
   "Sponsors": {
     "title": "Sponsorisé par"
@@ -94,16 +94,16 @@
     "settings": "Réglages"
   },
   "Dashboard": {
-    "meta_title": "Tableau de bord du SaaS Template",
-    "meta_description": "Un template gratuit et open-source de landing page pour votre entreprise SaaS, construit avec Next.js, TypeScript, Shadcn UI et Tailwind CSS."
+    "meta_title": "Tableau de bord Studio Flow",
+    "meta_description": "Gérez vos projets créatifs, collaborez avec votre équipe et suivez les progrès, le tout en un seul endroit avec le tableau de bord complet de Studio Flow."
   },
   "DashboardIndex": {
     "title_bar": "Tableau de bord",
-    "title_bar_description": "Bienvenue sur votre tableau de bord",
-    "message_state_title": "C'est parti",
-    "message_state_description": "Vous pouvez personnaliser cette page en modifiant le fichier dans <code>dashboard/page.tsx</code>",
-    "message_state_button": "Mettez une étoile sur GitHub",
-    "message_state_alternative": "Vous voulez plus de fonctionnalités en utilisant la même stack ? Essayez <url></url>."
+    "title_bar_description": "Bienvenue à Studio Flow",
+    "message_state_title": "Bienvenue à Studio Flow",
+    "message_state_description": "Commencez à gérer vos projets créatifs, collaborez avec votre équipe et optimisez votre flux de travail.",
+    "message_state_button": "Créer votre premier projet",
+    "message_state_alternative": "Besoin d'aide pour commencer ? Consultez notre <url>Guide de démarrage rapide</url>."
   },
   "UserProfile": {
     "title_bar": "Profil utilisateur",
